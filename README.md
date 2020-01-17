@@ -27,3 +27,12 @@ Mini-projet Data scientist en <b>RUBY</b><br>
 <b>2- nombreJournaliste:</b><br>
 =====> Affichage de nombre des journalistes dans le tableau  <br>
 <br>
+<b>3- nombreHandles:</b><br>
+=====> Demande si combien des elements dans le tableau comporte de nombre <br>
+<br>
+<b>4- cnombreAude: </b><br>
+=====> Demande si combien des elements dans le tableau comporte de le mot aude <br>
+<br>
+<b>5- nombreMaj: </b><br>
+=====> Demande si combien des elements dans le tableau commance par un majuscule</b><br>
+<br>
