@@ -12,3 +12,18 @@ Mini-projet Data scientist en <b>RUBY</b><br>
 3- Toky Raf<br>
 4- Toiher Omar<br>
 5- Randy rajaonarison<br>
+6- Freddy Michel<br>
+<<<<<<< HEAD
+
+<p>Le projet Data scientist se divise en 2 grandes parties: </p><br>
+
+<h3>1 - Big data:</h3>
+---------------------<br>
+<p>Il se divise en 11 methodes:</p><br>
+<br>
+<b>1- liste: </b><br>
+	=====> Definit la liste dans le tableau  <br>
+<br>
+<b>2- nombreJournaliste:</b><br>
+=====> Affichage de nombre des journalistes dans le tableau  <br>
+<br>
