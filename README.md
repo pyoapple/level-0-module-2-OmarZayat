@@ -36,3 +36,13 @@ Mini-projet Data scientist en <b>RUBY</b><br>
 <b>5- nombreMaj: </b><br>
 =====> Demande si combien des elements dans le tableau commance par un majuscule</b><br>
 <br>
+<b>6- nombreMajTab: </b><br>
+=====> Demande si combien des elements dans le tableau contient de majuscule <br>
+<br>
+<b>7- nombreUnderscore: </b><br>
+=====> Demande le nombre d'underscore <br>
+<br>
+<b>8- ordreAlphabetique: </b><br>
+=====> Afficher les elements dans le tableau par ordre alphabetique <br>
+<br>
+<b>9- nbr50Court:</b><br>
