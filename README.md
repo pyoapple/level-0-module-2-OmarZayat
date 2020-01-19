@@ -46,3 +46,13 @@ Mini-projet Data scientist en <b>RUBY</b><br>
 =====> Afficher les elements dans le tableau par ordre alphabetique <br>
 <br>
 <b>9- nbr50Court:</b><br>
+=====> Les 50 plus courte des handles<br>
+<br>
+<b>10- positionPenser:</b><br>
+=====> Position de @epenser dans la tableau <br>
+<br>
+<b>11- main:</b><br>
+=====> Appelle a toutes les methodes et les afficher apres <br>
+<br>
+<==============================================><br>
+<<<<<<< HEAD
