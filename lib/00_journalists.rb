@@ -5,4 +5,5 @@ end
 
 #Demande de nombre des journalistes dans le tableau
 def nombreJournaliste(nbr)
-	pu
+	puts "\n"
+	puts "
