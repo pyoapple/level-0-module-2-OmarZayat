@@ -4,4 +4,5 @@ def liste
 end
 
 #Demande de nombre des journalistes dans le tableau
-def nombreJournalist
+def nombreJournaliste(nbr)
+	pu
