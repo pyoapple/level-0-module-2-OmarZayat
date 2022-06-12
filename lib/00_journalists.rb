@@ -6,4 +6,5 @@ end
 #Demande de nombre des journalistes dans le tableau
 def nombreJournaliste(nbr)
 	puts "\n"
-	puts "1- Combien y a t'il de journalistes dans ce a
+	puts "1- Combien y a t'il de journalistes dans ce array ?"
+	p
