@@ -8,4 +8,4 @@ def nombreJournaliste(nbr)
 	puts "\n"
 	puts "1- Combien y a t'il de journalistes dans ce array ?"
 	puts "\n"
-	puts "=====> Il y a #{nbr
+	puts "=====> Il y a #{nbr.count} jour
