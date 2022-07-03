@@ -9,4 +9,5 @@ def nombreJournaliste(nbr)
 	puts "1- Combien y a t'il de journalistes dans ce array ?"
 	puts "\n"
 	puts "=====> Il y a #{nbr.count} journalistes dans ce tableau!"
-	
+	puts "\n"
+end
