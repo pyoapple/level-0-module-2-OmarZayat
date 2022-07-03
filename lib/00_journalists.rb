@@ -11,3 +11,4 @@ def nombreJournaliste(nbr)
 	puts "=====> Il y a #{nbr.count} journalistes dans ce tableau!"
 	puts "\n"
 end
+nbr = liste
