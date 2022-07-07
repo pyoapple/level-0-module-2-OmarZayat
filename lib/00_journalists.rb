@@ -12,3 +12,4 @@ def nombreJournaliste(nbr)
 	puts "\n"
 end
 nbr = liste
+nombreJournal
