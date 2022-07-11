@@ -14,4 +14,4 @@ end
 nbr = liste
 nombreJournaliste(nbr)
 
-#Demande si combie
+#Demande si combien des elements d
