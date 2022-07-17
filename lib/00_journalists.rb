@@ -14,4 +14,5 @@ end
 nbr = liste
 nombreJournaliste(nbr)
 
-#Demande si combien des elements dans le tableau comporte de no
+#Demande si combien des elements dans le tableau comporte de nombre
+def nombreHand
