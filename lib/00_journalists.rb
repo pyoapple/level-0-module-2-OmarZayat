@@ -14,4 +14,4 @@ end
 nbr = liste
 nombreJournaliste(nbr)
 
-#Demande si combien des elements dans le tableau c
+#Demande si combien des elements dans le tableau comporte de no
