@@ -15,4 +15,6 @@ nbr = liste
 nombreJournaliste(nbr)
 
 #Demande si combien des elements dans le tableau comporte de nombre
-def nombreHand
+def nombreHandles(nH)
+
+	number_co
