@@ -17,4 +17,5 @@ nombreJournaliste(nbr)
 #Demande si combien des elements dans le tableau comporte de nombre
 def nombreHandles(nH)
 
-	number_co
+	number_count = 0
+	f
