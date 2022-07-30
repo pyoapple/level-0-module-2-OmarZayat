@@ -18,4 +18,4 @@ nombreJournaliste(nbr)
 def nombreHandles(nH)
 
 	number_count = 0
-	f
+	for numero in nH 
