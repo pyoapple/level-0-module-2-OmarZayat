@@ -19,4 +19,4 @@ def nombreHandles(nH)
 
 	number_count = 0
 	for numero in nH do
-	    if nu
+	    if numero.match
