@@ -20,3 +20,4 @@ def nombreHandles(nH)
 	number_count = 0
 	for numero in nH do
 	    if numero.match(/[0-9]/)
+	      numbe
