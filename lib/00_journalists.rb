@@ -24,4 +24,4 @@ def nombreHandles(nH)
 	    end
 	end
 	puts "\n"
-	puts
+	puts "2- Combien d
