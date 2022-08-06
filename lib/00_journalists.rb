@@ -21,4 +21,5 @@ def nombreHandles(nH)
 	for numero in nH do
 	    if numero.match(/[0-9]/)
 	      number_count +=1
-	
+	    end
+	end
