@@ -23,3 +23,5 @@ def nombreHandles(nH)
 	      number_count +=1
 	    end
 	end
+	puts "\n"
+	puts
