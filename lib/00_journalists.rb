@@ -24,4 +24,4 @@ def nombreHandles(nH)
 	    end
 	end
 	puts "\n"
-	puts "2- Combien d'handle contiennent 
+	puts "2- Combien d'handle contiennent un numéro ?"
