@@ -29,4 +29,5 @@ def nombreHandles(nH)
 	puts "=====> Il y en a #{number_count} qui contient de numero"
 	puts "\n"
 end
-#n
+#nbr1 = liste
+no
