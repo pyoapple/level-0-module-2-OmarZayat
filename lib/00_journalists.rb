@@ -27,4 +27,6 @@ def nombreHandles(nH)
 	puts "2- Combien d'handle contiennent un numéro ?"
 	puts "\n"
 	puts "=====> Il y en a #{number_count} qui contient de numero"
-	puts "\
+	puts "\n"
+end
+#n
