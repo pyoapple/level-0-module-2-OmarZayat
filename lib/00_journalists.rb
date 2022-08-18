@@ -30,4 +30,4 @@ def nombreHandles(nH)
 	puts "\n"
 end
 #nbr1 = liste
-no
+nombreHandles(
