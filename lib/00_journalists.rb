@@ -30,4 +30,6 @@ def nombreHandles(nH)
 	puts "\n"
 end
 #nbr1 = liste
-nombreHandles(
+nombreHandles(nbr)
+
+#Demande s
