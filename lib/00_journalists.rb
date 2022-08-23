@@ -32,4 +32,4 @@ end
 #nbr1 = liste
 nombreHandles(nbr)
 
-#Demande si combien 
+#Demande si combien des element
