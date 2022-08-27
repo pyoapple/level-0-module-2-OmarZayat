@@ -32,4 +32,6 @@ end
 #nbr1 = liste
 nombreHandles(nbr)
 
-#Demande si combien des elements dans le tableau comporte de le mot a
+#Demande si combien des elements dans le tableau comporte de le mot aude
+
+def cnombreAude(n
