@@ -32,4 +32,4 @@ end
 #nbr1 = liste
 nombreHandles(nbr)
 
-#Demande si combien des elements dans le tableau comporte 
+#Demande si combien des elements dans le tableau comporte de le mot a
