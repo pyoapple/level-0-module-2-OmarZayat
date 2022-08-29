@@ -35,4 +35,5 @@ nombreHandles(nbr)
 #Demande si combien des elements dans le tableau comporte de le mot aude
 
 def cnombreAude(nAude)
-  	count = 
+  	count = 0
+  	nAude.each 
