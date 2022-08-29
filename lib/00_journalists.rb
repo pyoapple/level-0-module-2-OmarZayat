@@ -34,4 +34,5 @@ nombreHandles(nbr)
 
 #Demande si combien des elements dans le tableau comporte de le mot aude
 
-def cnombreAude(n
+def cnombreAude(nAude)
+  	count = 
