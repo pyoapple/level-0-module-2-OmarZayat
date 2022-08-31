@@ -36,4 +36,5 @@ nombreHandles(nbr)
 
 def cnombreAude(nAude)
   	count = 0
-  	nAude.each 
+  	nAude.each do |n|
+	 
