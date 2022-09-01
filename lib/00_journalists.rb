@@ -37,4 +37,4 @@ nombreHandles(nbr)
 def cnombreAude(nAude)
   	count = 0
   	nAude.each do |n|
-	    if n.match(/[a
+	    if n.match(/[a][u][d][e]
