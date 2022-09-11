@@ -40,4 +40,5 @@ def cnombreAude(nAude)
 	    if n.match(/[a][u][d][e]/)
 	      	count +=1
 	    end
-  	e
+  	end
+	puts "3-
