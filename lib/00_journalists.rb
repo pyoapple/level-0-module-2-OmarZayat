@@ -41,4 +41,4 @@ def cnombreAude(nAude)
 	      	count +=1
 	    end
   	end
-	puts "3- Combien d'
+	puts "3- Combien d'handle contiennen
