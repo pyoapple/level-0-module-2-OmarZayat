@@ -41,4 +41,4 @@ def cnombreAude(nAude)
 	      	count +=1
 	    end
   	end
-	puts "3- Combien d'handle contiennent les 4 lettres du prénom \"Aude\" à la su
+	puts "3- Combien d'handle contiennent les 4 lettres du prénom \"Aude\" à la suite (sans faire atten
