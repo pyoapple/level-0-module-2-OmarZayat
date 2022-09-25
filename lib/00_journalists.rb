@@ -44,3 +44,5 @@ def cnombreAude(nAude)
 	puts "3- Combien d'handle contiennent les 4 lettres du prénom \"Aude\" à la suite (sans faire attention à la casse) ?"
 	puts "\n"
 	puts "=====> Il y en a #{count} handles qui contient aude"
+	puts "\n"
+end
