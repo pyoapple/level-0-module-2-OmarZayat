@@ -47,4 +47,6 @@ def cnombreAude(nAude)
 	puts "\n"
 end
 
-cnombreAu
+cnombreAude(nbr)
+
+#Deman
