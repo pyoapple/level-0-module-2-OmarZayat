@@ -46,3 +46,5 @@ def cnombreAude(nAude)
 	puts "=====> Il y en a #{count} handles qui contient aude"
 	puts "\n"
 end
+
+cnombreAu
