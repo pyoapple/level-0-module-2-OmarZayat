@@ -49,4 +49,4 @@ end
 
 cnombreAude(nbr)
 
-#Demande si combien 
+#Demande si combien des eleme
