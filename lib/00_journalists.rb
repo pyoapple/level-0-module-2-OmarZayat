@@ -49,4 +49,4 @@ end
 
 cnombreAude(nbr)
 
-#Demande si combien des elements dans le tableau commance par u
+#Demande si combien des elements dans le tableau commance par un maju
