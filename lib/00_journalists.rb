@@ -49,4 +49,6 @@ end
 
 cnombreAude(nbr)
 
-#Demande si combien des elements dans le tableau commance par un maju
+#Demande si combien des elements dans le tableau commance par un majuscule
+
+def nom
