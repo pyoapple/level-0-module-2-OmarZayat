@@ -52,3 +52,5 @@ cnombreAude(nbr)
 #Demande si combien des elements dans le tableau commance par un majuscule
 
 def nombreMaj(nM)
+  	nbr = 0
+  
