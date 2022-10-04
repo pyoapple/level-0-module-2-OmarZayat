@@ -53,4 +53,4 @@ cnombreAude(nbr)
 
 def nombreMaj(nM)
   	nbr = 0
-  
+  	for maj in nM
