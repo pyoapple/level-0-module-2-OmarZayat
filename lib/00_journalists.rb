@@ -54,4 +54,5 @@ cnombreAude(nbr)
 def nombreMaj(nM)
   	nbr = 0
   	for maj in nM
-      	if maj.match(/@[
+      	if maj.match(/@[A-Z]/)
+      
