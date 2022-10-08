@@ -57,3 +57,5 @@ def nombreMaj(nM)
       	if maj.match(/@[A-Z]/)
       		nbr +=1
       	end
+	end
+	puts "
