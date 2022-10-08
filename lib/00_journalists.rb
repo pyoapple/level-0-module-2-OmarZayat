@@ -56,4 +56,4 @@ def nombreMaj(nM)
   	for maj in nM
       	if maj.match(/@[A-Z]/)
       		nbr +=1
- 
+      	end
