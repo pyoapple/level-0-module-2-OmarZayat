@@ -58,4 +58,4 @@ def nombreMaj(nM)
       		nbr +=1
       	end
 	end
-	puts "
+	puts "4- Combien 
