@@ -59,3 +59,4 @@ def nombreMaj(nM)
       	end
 	end
 	puts "4- Combien commencent par une majuscule ?"
+	puts "\n"
