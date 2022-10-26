@@ -61,3 +61,5 @@ def nombreMaj(nM)
 	puts "4- Combien commencent par une majuscule ?"
 	puts "\n"
 	puts "=====> Il y a #{nbr} handles qui commance par majuscule!"
+	puts "\n"
+en
