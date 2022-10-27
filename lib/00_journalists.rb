@@ -62,4 +62,8 @@ def nombreMaj(nM)
 	puts "\n"
 	puts "=====> Il y a #{nbr} handles qui commance par majuscule!"
 	puts "\n"
-en
+end
+
+nombreMaj(nbr)
+
+#D
