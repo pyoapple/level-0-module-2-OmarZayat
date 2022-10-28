@@ -66,4 +66,4 @@ end
 
 nombreMaj(nbr)
 
-#Demande si combien des elem
+#Demande si combien des elements dan
