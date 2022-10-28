@@ -66,4 +66,4 @@ end
 
 nombreMaj(nbr)
 
-#D
+#Demande si comb
