@@ -66,4 +66,4 @@ end
 
 nombreMaj(nbr)
 
-#Demande si comb
+#Demande si combien des elem
