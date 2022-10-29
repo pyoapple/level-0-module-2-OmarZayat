@@ -66,4 +66,6 @@ end
 
 nombreMaj(nbr)
 
-#Demande si combien des elements dans le tableau contient 
+#Demande si combien des elements dans le tableau contient de majuscule
+
+de
