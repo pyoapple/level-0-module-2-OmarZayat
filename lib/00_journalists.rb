@@ -66,4 +66,4 @@ end
 
 nombreMaj(nbr)
 
-#Demande si combien des elements dan
+#Demande si combien des elements dans le tableau contient 
