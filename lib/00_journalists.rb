@@ -68,4 +68,4 @@ nombreMaj(nbr)
 
 #Demande si combien des elements dans le tableau contient de majuscule
 
-de
+def nombreMajTa
