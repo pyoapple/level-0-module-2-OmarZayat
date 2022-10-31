@@ -70,4 +70,4 @@ nombreMaj(nbr)
 
 def nombreMajTab(nMT)
   	count = 0
- 
+  	for n in nMT
