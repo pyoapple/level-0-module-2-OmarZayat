@@ -69,4 +69,5 @@ nombreMaj(nbr)
 #Demande si combien des elements dans le tableau contient de majuscule
 
 def nombreMajTab(nMT)
-  	c
+  	count = 0
+ 
