@@ -72,4 +72,5 @@ def nombreMajTab(nMT)
   	count = 0
   	for n in nMT do
       	if n.match(/[A-Z]/)
-      		co
+      		count +=1
+    
