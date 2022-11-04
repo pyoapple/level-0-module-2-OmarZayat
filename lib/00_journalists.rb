@@ -74,4 +74,5 @@ def nombreMajTab(nMT)
       	if n.match(/[A-Z]/)
       		count +=1
       	end
-  	en
+  	end
+  	puts 
