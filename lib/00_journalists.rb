@@ -75,4 +75,4 @@ def nombreMajTab(nMT)
       		count +=1
       	end
   	end
-  	puts "5- Combien
+  	puts "5- Combien contiennent une
