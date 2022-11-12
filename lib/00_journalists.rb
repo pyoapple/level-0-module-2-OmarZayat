@@ -77,4 +77,4 @@ def nombreMajTab(nMT)
   	end
   	puts "5- Combien contiennent une majuscule ?"
   	puts "\n"
-  	puts "=====> Il y a #{count} hand
+  	puts "=====> Il y a #{count} handles qui conti
