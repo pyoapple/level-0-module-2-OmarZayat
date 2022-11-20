@@ -81,4 +81,5 @@ def nombreMajTab(nMT)
   	puts "\n"
 end
 
-nombr
+nombreMajTab(nbr)
+
