@@ -83,4 +83,6 @@ end
 
 nombreMajTab(nbr)
 
-#Nombre d'
+#Nombre d'underscore
+
+de
