@@ -85,4 +85,4 @@ nombreMajTab(nbr)
 
 #Nombre d'underscore
 
-de
+def nombreUnderscore(n
