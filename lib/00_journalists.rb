@@ -86,4 +86,5 @@ nombreMajTab(nbr)
 #Nombre d'underscore
 
 def nombreUnderscore(nU)
-  	nbr = 
+  	nbr = 0
+  	for u i
