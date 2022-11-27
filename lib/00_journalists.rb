@@ -87,4 +87,5 @@ nombreMajTab(nbr)
 
 def nombreUnderscore(nU)
   	nbr = 0
-  	for u i
+  	for u in nU do
+    
