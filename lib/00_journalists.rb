@@ -90,4 +90,6 @@ def nombreUnderscore(nU)
   	for u in nU do
       	if u.match(/[_]/)
       		nbr +=1
-      	e
+      	end
+  	end
+  	puts 
