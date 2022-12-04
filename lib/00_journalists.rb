@@ -92,4 +92,4 @@ def nombreUnderscore(nU)
       		nbr +=1
       	end
   	end
-  	puts 
+  	puts "6- Combien 
