@@ -93,4 +93,5 @@ def nombreUnderscore(nU)
       	end
   	end
   	puts "6- Combien d'underscore dans tous les pseudos confondus ?"
-  	puts
+  	puts "\n"
+  	
