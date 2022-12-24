@@ -96,3 +96,6 @@ def nombreUnderscore(nU)
   	puts "\n"
   	puts "=====> Il y en a #{nbr} underscore"
   	puts "\n"
+end
+
+nombreUnderscore
