@@ -100,4 +100,4 @@ end
 
 nombreUnderscore(nbr)
 
-#Ordre pa
+#Ordre par alphabet
