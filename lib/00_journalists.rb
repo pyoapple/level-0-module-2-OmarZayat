@@ -98,4 +98,6 @@ def nombreUnderscore(nU)
   	puts "\n"
 end
 
-nombreUnderscore
+nombreUnderscore(nbr)
+
+#Ordre pa
