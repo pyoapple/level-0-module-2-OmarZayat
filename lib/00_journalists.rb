@@ -103,3 +103,4 @@ nombreUnderscore(nbr)
 #Ordre par alphabetique du tableau
 
 def ordreAlphabetique()
+ 	puts "7- Tri
