@@ -103,4 +103,4 @@ nombreUnderscore(nbr)
 #Ordre par alphabetique du tableau
 
 def ordreAlphabetique()
- 	puts "7- Trie la li
+ 	puts "7- Trie la liste de handle pa
