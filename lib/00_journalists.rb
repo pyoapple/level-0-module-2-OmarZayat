@@ -106,4 +106,6 @@ def ordreAlphabetique()
  	puts "7- Trie la liste de handle par ordre alphabétique"
   	puts "\n"
 	return  puts liste.sort
-  	pu
+  	puts"\n"
+end
+ordr
