@@ -108,4 +108,6 @@ def ordreAlphabetique()
 	return  puts liste.sort
   	puts"\n"
 end
-ordr
+ordreAlphabetique
+
+#Le
