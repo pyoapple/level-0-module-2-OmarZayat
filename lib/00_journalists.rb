@@ -112,4 +112,4 @@ ordreAlphabetique
 
 #Les 50 plus courte des handles
 
-def nbr
+def nbr50Court(
