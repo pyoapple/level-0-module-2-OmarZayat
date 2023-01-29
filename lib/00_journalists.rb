@@ -112,4 +112,5 @@ ordreAlphabetique
 
 #Les 50 plus courte des handles
 
-def nbr50Court(
+def nbr50Court(nbr)
+	puts "\n"
