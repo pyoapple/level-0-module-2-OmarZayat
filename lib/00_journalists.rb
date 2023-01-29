@@ -110,4 +110,6 @@ def ordreAlphabetique()
 end
 ordreAlphabetique
 
-#Les 50 plus courte des handle
+#Les 50 plus courte des handles
+
+def nbr
