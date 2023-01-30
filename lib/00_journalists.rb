@@ -114,4 +114,4 @@ ordreAlphabetique
 
 def nbr50Court(nbr)
 	puts "\n"
-	nbr = liste.sort
+	nbr = liste.sort_by(&:leng
