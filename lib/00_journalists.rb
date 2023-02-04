@@ -115,4 +115,4 @@ ordreAlphabetique
 def nbr50Court(nbr)
 	puts "\n"
 	nbr = liste.sort_by(&:length)[0..50]
-	puts "8- Quels 
+	puts "8- Quels sont les 50 han
