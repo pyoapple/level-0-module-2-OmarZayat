@@ -117,4 +117,4 @@ def nbr50Court(nbr)
 	nbr = liste.sort_by(&:length)[0..50]
 	puts "8- Quels sont les 50 handles les plus courts de cette array ?"
 	puts "\n"
-	p
+	puts "----- Les
