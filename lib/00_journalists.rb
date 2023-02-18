@@ -118,4 +118,5 @@ def nbr50Court(nbr)
 	puts "8- Quels sont les 50 handles les plus courts de cette array ?"
 	puts "\n"
 	puts "----- Les 50 plus courte des handles sont:"
-	puts "
+	puts "\n"
+	nbr.ea
