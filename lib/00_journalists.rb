@@ -119,4 +119,5 @@ def nbr50Court(nbr)
 	puts "\n"
 	puts "----- Les 50 plus courte des handles sont:"
 	puts "\n"
-	nbr.ea
+	nbr.each do |x|
+		 p
