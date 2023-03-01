@@ -122,4 +122,5 @@ def nbr50Court(nbr)
 	nbr.each do |x|
 		 puts "====> #{x} \n"
   	end
-  
+  	puts "\n"
+e
