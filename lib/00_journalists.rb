@@ -123,4 +123,6 @@ def nbr50Court(nbr)
 		 puts "====> #{x} \n"
   	end
   	puts "\n"
-e
+end
+
+nbr50
