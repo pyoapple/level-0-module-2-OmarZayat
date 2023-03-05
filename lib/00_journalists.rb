@@ -127,3 +127,5 @@ end
 
 nbr50Court(nbr)
 #Position de @epenser dans la tableau
+
+def positio
