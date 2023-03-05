@@ -126,4 +126,4 @@ def nbr50Court(nbr)
 end
 
 nbr50Court(nbr)
-#Position de @epenser d
+#Position de @epenser dans la tableau
