@@ -128,4 +128,5 @@ end
 nbr50Court(nbr)
 #Position de @epenser dans la tableau
 
-def positio
+def positionPenser()
+ 	puts "9- Q
