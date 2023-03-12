@@ -129,4 +129,4 @@ nbr50Court(nbr)
 #Position de @epenser dans la tableau
 
 def positionPenser()
- 	puts "9- Quelle est la 
+ 	puts "9- Quelle est la position
