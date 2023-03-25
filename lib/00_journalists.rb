@@ -132,3 +132,6 @@ def positionPenser()
  	puts "9- Quelle est la position dans l'array de la personne @epenser ?"
   	puts "=====> @epenser est sur la ligne #{liste.index("@epenser")}"
   	puts
+end
+
+posit
