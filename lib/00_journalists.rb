@@ -134,4 +134,4 @@ def positionPenser()
   	puts
 end
 
-posit
+positionPenser()
