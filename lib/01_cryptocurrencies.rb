@@ -43,3 +43,20 @@ def main(x)
 
   # transformer les valeurs en float
   new_currency_rate = currency_rate.each { |k, v| currency_rate[k] = v.to_f }
+
+  under6000 = new_currency_rate.select{ |_k, v| v < 6000 }
+
+  max6000 = under6000.values.max
+  if x == 1
+    max_currency(new_currency_rate)
+  elsif x == 2
+    min_currency(new_currency_rate)
+  elsif x == 3
+    coin_currency(downcase_currency)
+  elsif x == 4
+    currency6000(new_currency_rate)
+  elsif x == 5
+    puts "le cours le plus haut inférieur à 6000 est $ #{max6000}"
+  else
+    puts "il faut entrer un chiffre entre 1 à 5"
+  end
