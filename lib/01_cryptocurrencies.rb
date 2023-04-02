@@ -60,3 +60,18 @@ def main(x)
   else
     puts "il faut entrer un chiffre entre 1 à 5"
   end
+  main(option)
+end
+
+def option
+  gets.chomp.to_i
+end
+
+puts "1-le crypto qui a la plus grosse valeur"
+puts "2-le ou les crypto qui a la plus petite valeur"
+puts "3-le nombre de crypto qui contien le mot \"coin\" "
+puts "4-les devises dont le cours est inférieur à 6000$"
+puts "5-le cours le plus haut inférieur à 6000$"
+puts "Veuillez choisir un option entre 1 à 5"
+
+main(option)
