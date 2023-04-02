@@ -14,3 +14,14 @@ def min_currency(my_hash)
   crypto_min = hash_crypto_min.keys.to_s
   puts "la crypto qui a la plus petite valeur est #{crypto_min} qui vaut $ #{min}"
 end
+
+# fonction pour trouverle nombre de crypto qui contiennent le mot "coin"
+def coin_currency(my_hash)
+  coin = my_hash.select{ |k, _v| k.include? 'coin' }
+  puts "le nombre de crypto qui contiennent le mot \"coin\": #{coin.size}"
+end
+
+def currency6000(my_hash)
+  under6000 = my_hash.select{ |_k, v| v < 6000 }
+  puts under6000.inspect
+end
